@@ -5,9 +5,9 @@ Academic project developed as part of a university course in Bioinformatics.
 ## Project Overview
 The objective of this project was to build and validate a homology model of the human Proto-oncogene Mas receptor, also called the MAS1 receptor (UniProt ID: P04201), a G protein-coupled receptor (GPCR) for which no experimental structure was available at the time of the assignment.
 
-The project required selecting the most suitable structural templates, generating a homology model, validating its quality, refining intracellular loop 3 (ICL3), and comparing the final model with the AlphaFold prediction.
+The project required selecting the most suitable structural templates, generating a homology model, validating its quality, refining intracellular loop 3 (ICL3) and comparing the final model with the AlphaFold prediction.
 
-The complete workflow, methodology, analyses, and results are documented in the accompanying PDF report.
+The complete workflow, methodology, analyses and results are documented in the accompanying PDF report.
 
 ## Project Requirements
 
@@ -37,10 +37,10 @@ It contains:
 
 ## Software and Resources
 
-The workflow employed commonly used structural bioinformatics tools introduced during the course, including homology modeling, structure validation, visualization, and AlphaFold comparison resources. The specific software, web servers, and parameters are documented in the report.
+The workflow employed commonly used structural bioinformatics tools introduced during the course, including homology modeling, structure validation, visualization and AlphaFold comparison resources. The specific software, web servers and parameters are documented in the report.
 
 ## Note
 
-Only the final report is available in this repository. The original modeling files (PDBs, alignments, intermediate models, and project files) are no longer available.
+Only the final report is available in this repository. The original modeling files (PDBs, alignments, intermediate models and project files) are no longer available.
 
-This repository is intended to document the methodology and results of the academic project.
+This repository is intended to document the methodology, workflow and results of the academic project.
