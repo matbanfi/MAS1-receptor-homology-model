@@ -3,7 +3,7 @@
 Academic project developed as part of a university course in Bioinformatics.
 
 ## Project Overview
-The objective of this project was to build and validate a homology model of the human Proto-oncogene Mas receptor, also called the **MAS1 receptor** (UniProt ID: **P04201**), a G protein-coupled receptor (GPCR) for which no experimental structure was available at the time of the assignment.
+The objective of this project was to build and validate a homology model of the human Proto-oncogene Mas receptor, also called the MAS1 receptor (UniProt ID: P04201), a G protein-coupled receptor (GPCR) for which no experimental structure was available at the time of the assignment.
 
 The project required selecting the most suitable structural templates, generating a homology model, validating its quality, refining intracellular loop 3 (ICL3), and comparing the final model with the AlphaFold prediction.
 
