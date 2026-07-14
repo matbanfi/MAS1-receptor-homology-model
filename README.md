@@ -44,10 +44,3 @@ The workflow employed commonly used structural bioinformatics tools introduced d
 Only the final report is available in this repository. The original modeling files (PDBs, alignments, intermediate models, and project files) are no longer available.
 
 This repository is intended to document the methodology and results of the academic project.
-
-## Author
-
-**Mattia Banfi**
-
-Master's Degree in Computational Science  
-Università della Svizzera Italiana (USI) - Lugano, Switzerland
