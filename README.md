@@ -24,6 +24,10 @@ The assignment included the following tasks:
 
 The complete report is available here:
 
+**📄 [MAS1_Homology_Model_Report.pdf](report/MAS1_Homology_Model_Report.pdf)**
+
+The complete report is available here:
+
 **📄 `report/MAS1_Homology_Model_Report.pdf`**
 
 It contains:
